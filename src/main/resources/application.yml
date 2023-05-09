@@ -1,0 +1,7 @@
+#file: noinspection undefined
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://admin:admin@contaspix.hqbpdxt.mongodb.net/?retryWrites=true&w=majority
+      database: Task
+
